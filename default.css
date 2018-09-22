@@ -1,0 +1,119 @@
+body{
+	color:#202020;
+	background-color:#f3f3f3;
+}
+
+a:link{
+	color:#387fa0;
+}
+a:visited{
+	color:#469fc8;
+}
+a:active{
+	color:#2a5f78;
+}
+
+body.top p{
+	margin-left:0.5em;
+	margin-right:0.5em;
+}
+
+div#top-logo{
+	margin:0px 10px 0px 0px;
+	float:left;
+}
+
+h1.top{
+	margin-bottom:10px;
+	padding-bottom:0px;
+}
+
+p#english-name{
+	margin-top:10px;
+	padding-top:0px;
+}
+
+div#philosophy{
+	height:150px;
+	clear:both;
+	display:table;
+}
+
+div#philosophy img{
+	margin:0;
+	float:left;
+}
+
+div#philosophy p{
+	color:#ffffff;
+	background-color:#d3ddff;
+	font-weight:bold;
+	text-align:center;
+	width:100%;
+	display:table-cell;
+	vertical-align:middle;
+	line-height:2em;
+	text-shadow:
+		0px 0px 1px rgba(0,0,0,1),
+		0px 1px 3px rgba(0,0,0,1);
+}
+
+h2.top{
+	background-color:#e0e0e0;
+	border-width:4px 0px 0px 1em;
+	border-color:#99c9ed;
+	border-left-style:solid;
+	border-top-style:dotted;
+	padding-left: 0.5em;
+}
+
+div.category{
+	margin-left:1em;
+	border-width:0px 0px 0px 8px;
+	border-left-color:#d0d0d0;
+	border-style:solid;
+}
+
+div.category p{
+	margin-left:0.5em;
+}
+
+div.category div{
+	margin-left:0.5em;
+}
+
+p.signature{
+	text-align:right;
+}
+
+div.top-navi{
+	background-color:#e7e7e7;
+	padding:0.5em 0.5em 0.5em 0.5em;
+}
+
+div.footer{
+	text-align:right;
+	background-color:#e0e0e0;
+	padding:0.5em 0.5em 0.5em 0.5em;
+	margin-top:2em;
+	font-size:smaller;
+	clear:both;
+}
+
+img.left-image{
+	float:left;
+	margin:0.5em 1em 0.5em 0.5em;
+}
+
+img.right-image{
+	float:right;
+	margin:0.5em 0.5em 0.5em 1em;
+}
+
+p.center{
+	text-align:center;
+}
+
+div.section{
+	clear:both;
+}
